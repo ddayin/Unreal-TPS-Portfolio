@@ -7,4 +7,4 @@ This portfolio is to develop TPS game with Unreal engine.
 
 [Development Environment]
 - Unreal Engine 4.24.3
-- Visual Studio Code
+- Visual Studio 2019 Community
